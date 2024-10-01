@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menuListView" type="id" />
+    <item name="confirmOrderButton" type="id" />
+    <item name="orderListView" type="id" />
+    <item name="totalPriceText" type="id" />
+    <item name="finishOrderButton" type="id" />
+</resources>
